@@ -1,0 +1,43 @@
+#terminal database drop
+DROP DATABASE IF EXISTS school_management;
+DROP DATABASE IF EXISTS library_catalog;
+DROP DATABASE IF EXISTS hospital_records;
+DROP DATABASE IF EXISTS inventory_control;
+DROP DATABASE IF EXISTS employee_payroll;
+DROP DATABASE IF EXISTS ecommerce_store;
+DROP DATABASE IF EXISTS banking_core;
+DROP DATABASE IF EXISTS railway_booking;
+DROP DATABASE IF EXISTS hotel_reservation;
+DROP DATABASE IF EXISTS restaurant_pos;
+DROP DATABASE IF EXISTS airline_flight_ops;
+DROP DATABASE IF EXISTS pharmacy_stock;
+DROP DATABASE IF EXISTS gym_membership;
+DROP DATABASE IF EXISTS real_estate_listings;
+DROP DATABASE IF EXISTS car_rental_service;
+DROP DATABASE IF EXISTS courier_tracking;
+DROP DATABASE IF EXISTS blood_bank_donors;
+DROP DATABASE IF EXISTS online_exam_portal;
+DROP DATABASE IF EXISTS cinema_booking;
+DROP DATABASE IF EXISTS grocery_sales;
+
+#workbench database Drop
+DROP DATABASE IF EXISTS music_streaming_app;
+DROP DATABASE IF EXISTS job_portal;
+DROP DATABASE IF EXISTS social_media_platform;
+DROP DATABASE IF EXISTS weather_monitoring;
+DROP DATABASE IF EXISTS traffic_control_system;
+DROP DATABASE IF EXISTS supply_chain_logistics;
+DROP DATABASE IF EXISTS customer_crm;
+DROP DATABASE IF EXISTS event_management;
+DROP DATABASE IF EXISTS blog_cms;
+DROP DATABASE IF EXISTS task_tracker;
+DROP DATABASE IF EXISTS online_voting_sys;
+DROP DATABASE IF EXISTS taxi_booking_service;
+DROP DATABASE IF EXISTS food_delivery_network;
+DROP DATABASE IF EXISTS elearning_lms;
+DROP DATABASE IF EXISTS smart_parking_lot;
+DROP DATABASE IF EXISTS zoo_management;
+DROP DATABASE IF EXISTS crime_record_bureau;
+DROP DATABASE IF EXISTS insurance_policies;
+DROP DATABASE IF EXISTS stock_trading_platform;
+DROP DATABASE IF EXISTS charity_donation_fund;

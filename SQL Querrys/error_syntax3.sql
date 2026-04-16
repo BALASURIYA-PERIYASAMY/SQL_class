@@ -1,0 +1,21 @@
+
+SELECT * FORM employees;
+SELECT * FROM ghost_table;
+SELECT phone_number FROM employees;
+USE fake_database;
+CREATE TABLE t1 (id INT, PRIMARY KEY (fake_id));
+INSERT INTO employees (name, age) VALUES ('Ram');
+INSERT INTO employees (email) VALUES ('a@b.com');
+INSERT INTO employees (emo_id) VALUES (1);
+INSERT INTO employees (name) VALUES ('ThisNameIsWayTooLongForTheColumn');
+INSERT INTO employees (age) VALUES ('twenty');
+INSERT INTO employees (age) VALUES (10);
+INSERT INTO orders (user_id) VALUES (999);
+DELETE FROM users WHERE id = 1;
+SELECT * FROM employees WHERE age = (SELECT age FROM employees);
+SELECT * FROM employees WHERE AVG(age) > 20;
+CREATE TABLE employees (id INT);
+SELECT * FROM employees WHERE id = (SELECT id, name FROM employees LIMIT 1);
+INSERT INTO employees (name) VALUES (NULL);
+DROP TABLE ghost_table;
+ALTER TABLE employees DROP COLUMN salary;

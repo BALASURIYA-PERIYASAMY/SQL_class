@@ -1,0 +1,4 @@
+CREATE DEFINER ='root'@'lochalhost' PROCEDURE `ak_race` ()
+BEGIN
+SELECT * FROM TOPICS;
+END

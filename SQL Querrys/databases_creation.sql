@@ -1,0 +1,43 @@
+#terminal
+CREATE DATABASE school_management;
+CREATE DATABASE library_catalog;
+CREATE DATABASE hospital_records;
+CREATE DATABASE inventory_control;
+CREATE DATABASE employee_payroll;
+CREATE DATABASE ecommerce_store;
+CREATE DATABASE banking_core;
+CREATE DATABASE railway_booking;
+CREATE DATABASE hotel_reservation;
+CREATE DATABASE restaurant_pos;
+CREATE DATABASE airline_flight_ops;
+CREATE DATABASE pharmacy_stock;
+CREATE DATABASE gym_membership;
+CREATE DATABASE real_estate_listings;
+CREATE DATABASE car_rental_service;
+CREATE DATABASE courier_tracking;
+CREATE DATABASE blood_bank_donors;
+CREATE DATABASE online_exam_portal;
+CREATE DATABASE cinema_booking;
+CREATE DATABASE grocery_sales;
+
+#workbench
+CREATE DATABASE music_streaming_app;
+CREATE DATABASE job_portal;
+CREATE DATABASE social_media_platform;
+CREATE DATABASE weather_monitoring;
+CREATE DATABASE traffic_control_system;
+CREATE DATABASE supply_chain_logistics;
+CREATE DATABASE customer_crm;
+CREATE DATABASE event_management;
+CREATE DATABASE blog_cms;
+CREATE DATABASE task_tracker;
+CREATE DATABASE online_voting_sys;
+CREATE DATABASE taxi_booking_service;
+CREATE DATABASE food_delivery_network;
+CREATE DATABASE elearning_lms;
+CREATE DATABASE smart_parking_lot;
+CREATE DATABASE zoo_management;
+CREATE DATABASE crime_record_bureau;
+CREATE DATABASE insurance_policies;
+CREATE DATABASE stock_trading_platform;
+CREATE DATABASE charity_donation_fund;

@@ -1,0 +1,10 @@
+CREATE DATABASE blog_cms;
+CRAETE DATABASE my_db_2;
+CREATE DATABASE;
+CREATE DATABASE my.db;
+CREATE DATABASE table;
+CREATE DATABASE my_db_6 CHARACTER SET utf88;
+CREATE DATABASE my_db_7 now;
+DROP DATABASE ghost_db;
+CREATE DATABASE ``;
+CREATE DATABASE this_database_name_is_going_to_be_way_too_long_for_mysql_to_handle_because_it_exceeds_sixty_four_characters;
